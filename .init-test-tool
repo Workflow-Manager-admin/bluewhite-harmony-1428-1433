@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/bluewhite-harmony-1428-1433/core_component_for_bluewhite_harmony"
+}
